@@ -2,7 +2,7 @@
 ##  Computer Engineering Student | 11th Trimester
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Diego!;10th+Trimester+Student;Computer+Engineering;React+%7C+Node.js+%7C+Python;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Diego!;11th+Trimester+Student;Computer+Engineering;React+%7C+Node.js+%7C+Python;Always+Learning+New+Tech" alt="Typing SVG" />
 </div>
 
 <br/>
