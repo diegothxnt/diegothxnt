@@ -20,7 +20,7 @@ class DiegoRojas:
         self.username = "diegothxnt"
         self.name = "Diego Rojas"
         self.email = "rojas.diego3011@gmail.com"
-        self.position = "Computer Engineering Student (10th Trimester)"
+        self.position = "Computer Engineering Student (11th Trimester)"
         self.code = {
             'backend': ['Python', 'Node.js', 'Java'],
             'frontend': ['React', 'Next.js', 'JavaScript', 'HTML', 'CSS'],
