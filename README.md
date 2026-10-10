@@ -29,7 +29,7 @@ class DiegoRojas:
             'currently_learning': ['TypeScript', 'Docker']
         }
         self.interests = ['Web Development', 'UI/UX Design']
-        self.fun_fact = "I'm on my 10th trimester and still don't know what I'm doing half the time"
+        self.fun_fact = "I'm on my 11th trimester and still don't know what I'm doing half the time"
     
     def say_hi(self):
         print("Thanks for visiting my profile! Let's connect and build something cool.")
